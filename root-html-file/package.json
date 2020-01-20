@@ -8,8 +8,8 @@
   "author": "Joel Denning",
   "license": "MIT",
   "devDependencies": {
-    "@types/systemjs": "^6.1.0",
-    "serve": "^11.1.0"
+    "serve": "^11.3.0",
+    "typescript": "~3.4.3"
   },
   "dependencies": {
     "@datorama/akita": "^4.17.4",

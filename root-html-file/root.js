@@ -1,10 +1,11 @@
-System.import('single-spa')
-    .then(function (singleSpa) {
-        console.log('singleSpa', singleSpa)
-        init(singleSpa);
-    });
+// System.import('single-spa')
+//     .then(function (singleSpa) {
+//         console.log('singleSpa', singleSpa)
+//         init(singleSpa);
+//     });
 
 // import { Store, StoreConfig } from '@datorama/akita';
+
 
 const { Store, StoreConfig } = require('@datorama/akita');
 
